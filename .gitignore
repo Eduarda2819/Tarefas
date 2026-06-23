@@ -1,0 +1,12 @@
+# Arquivo de dados gerado pelo programa (Aula 3)
+tarefas.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
